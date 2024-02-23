@@ -5,3 +5,10 @@
  --cor--lalalala: #1B09FF;
  --cor--blabla: #0D0482;
 }
+
+.botao{
+    color: var(--cor--lalalala);
+    background-color: #049e32;
+    border-color: var(--cor--blabla);
+
+}
