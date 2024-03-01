@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
 :root{
     --cor-de-fundo:#386738;
-    --preto:#000000;
+    --preto:#f0f0f0;
     --vermelho:#FF0000;
-    --roxo:#3A375E;
+    --roxo:#55eb0f;
     --texto-fundo:#6FFF57;
     --botao-inativo:rgba(82, 162, 81, 0.5);
     --botao-ativo:#519750;
