@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap')
 :root{
-    --green: #629c53
-    --black: ##010300
-    --green: ##007f3b
-    --botao ativo: #rgba(160, 76, 224, 0, 70)
-    --botao inativo: #rgba(210, 76, 224, 0, 69)
-    --cor-de-fundo: #0ba45c
+    --cor-de-fundo:#386738;
+    --preto:#000000;
+    --vermelho:#FF0000;
+    --roxo:#3A375E;
+    --verde-limao:#6FFF57;
+    --cor-cbc-n-sel:rgba(82, 162, 81, 0.5);
+    --cor-cbc-sel:#52A151;
 
 }
 body{
