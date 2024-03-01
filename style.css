@@ -1,32 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
 :root{
     --cor-de-fundo:#386738;
     --preto:#000000;
     --vermelho:#FF0000;
     --roxo:#3A375E;
-    --verde-limao:#6FFF57;
-    --cor-cbc-n-sel:rgba(82, 162, 81, 0.5);
-    --cor-cbc-sel:#52A151;
+    --texto-fundo:#6FFF57;
+    --botao-inativo:rgba(82, 162, 81, 0.5);
+    --botao-ativo:#519750;
 
 }
 body{
     background-color: var(--roxo);
     color: var(--branco)
-    font-family: 'Embed code' , 'Sans Serif';
-
-
-}
-.conteudo-principal{
-    display:flex
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    max-width: 1200px;
-    width: 100%
-    margin: 0 auto;
-}
-.titulo-principal{
-    text-align: left;
-    width: 100%;
-    font-size: 30px;
-}
+    font-family: 
