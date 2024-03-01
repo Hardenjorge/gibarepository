@@ -12,6 +12,10 @@
 body{
     background-color: var(--roxo);
     color: var(--branco)
-    font-family: 'Monaco', monospace;
+    font-family: 'Chakra Petch', sans-serif;
 }
-.conteudo principal
+.conteudo principal{
+    display: flex;
+    flex-direction: column;
+
+}
